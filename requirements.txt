@@ -1,0 +1,5 @@
+torch>=1.8.0
+transformers>=4.5.0
+numpy>=1.20.0
+sentencepiece>=0.1.96
+pytorch-crf>=0.7.2 
